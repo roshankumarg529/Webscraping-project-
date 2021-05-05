@@ -1,6 +1,6 @@
 # Solutions
 
-requirments 
+Requirments 
 
 Chrome driver
 selenium == 3.141.0
